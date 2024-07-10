@@ -21,10 +21,12 @@
 ### [Convolutional Neural Network for Facial Recognition](https://github.com/SarahB47/COGS181-Final-Project)
 ##### [  Visit the Paper Here!](https://github.com/SarahB47/COGS181-Final-Project/blob/main/COGS_181_Final_Project.pdf)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" /> <img alt="Tools | Torch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png" />
-- Developed a customized Convolutional Neural Network for the Olivetti dataset based on the ResNet18 architecture
+- Developed a customized Convolutional Neural Network for the Olivetti dataset based on the ResNet18 architecture.
+- Utilized the Olivetti dataset, consisting of 400 facial images distributed among 40 classes, with ten images per class representing different individuals.
+- Tested different combinations of activation functions and optimization methods: ReLU with Adam, Leaky ReLU with Adam, Tanh with Adam, ReLU with SGD, Leaky ReLU with SGD, and Tanh with SGD.
 - Explored hyper-parameter tuning of various optimization and activation functions, resulting in a test accuracy of 97% and
-training loss of 0.001
-- Authored detailed machine learning report clarifying neural network concepts and experimental findings
+training loss of 0.001.
+- Authored detailed machine learning report clarifying neural network concepts and experimental findings, such as the ResNet architecture, convolutional layers, pooling layers, activation functions, and optimization functions.
 
 ### [Predicting Power Outages Durations](https://github.com/hgallocodes/Predicting-Power-Outages-Durations)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Predicting-Power-Outages-Durations/)
