@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1>Hello, I'm Sarah!<br/><a href="www.linkedin.com/in/sarah-borsotto">More on my Projects</a></h1>
 
-<!--
-**SarahB47/SarahB47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 📊 Data Analysis Projects:</h2>
 
-Here are some ideas to get you started:
+### [Statistical Analysis of Power Outage Events](https://github.com/hgallocodes/Cold-Weather-and-Power-Outages)
+##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Cold-Weather-and-Power-Outages/)
+<img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> 
+- Analyzed a comprehensive dataset of major power outages in the U.S. from January 2000 to July 2016 to identify the correlation between weather conditions and power outage durations, focusing specifically on the impact of colder weather on the length of outages.
+- Conducted extensive data cleaning and exploratory data analysis to refine the dataset for relevant variables, implemented hypothesis testing to examine the relationship between power outage durations and cold weather, and communicated findings through clear insights.
+- Utilized statistical methods and permutation tests to validate the hypothesis that colder weather leads to longer power outage durations, contributing to the development of strategies for improving infrastructure resilience and emergency response during adverse weather conditions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [Predicting Power Outages Durations](https://github.com/hgallocodes/Predicting-Power-Outages-Durations)
+##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Predicting-Power-Outages-Durations/)
+<img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Plotly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" /> 
+- Developed and fine-tuned a k-Nearest Neighbors (k-NN) regression model to predict the durations of power outages based on influential factors like cause, geography, and population metrics, using a dataset that included detailed information on past power outage events.
+- Conducted rigorous data cleaning and exploratory data analysis to identify key predictors, manage outliers, and ensure data quality, which included encoding categorical variables and selecting relevant quantitative features for model training.
+- Evaluated the model's performance using root mean square error (RMSE) and R-squared metrics, performed a fairness analysis comparing predictions across different U.S. regions, and refined the model by incorporating features like peak energy consumption hours and population metrics to improve prediction accuracy.
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="Hector Gallo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://www.linkedin.com/in/sarah-borsotto/
