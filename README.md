@@ -28,6 +28,10 @@
 training loss of 0.001.
 - Authored detailed machine learning report clarifying neural network concepts and experimental findings, such as the ResNet architecture, convolutional layers, pooling layers, activation functions, and optimization functions.
 
+### [Unlocking Potential: Modeling Transferability and Future Performance of D1 Athletes](https://github.com/SarahB47/MATH189-Final-Project/blob/main/math189_final_project.ipynb)
+##### [  Visit the Paper Here!](https://github.com/SarahB47/MATH189-Final-Project/blob/main/MATH_189_Project_Paper.pdf)
+img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" /> <img alt="Tools | Torch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png" /> <img alt="Tools | Seaborn" width="22px" src="https://seeklogo.com/images/S/seaborn-logo-97023602C9-seeklogo.com.png" /> 
+
 ### [Predicting Power Outages Durations](https://github.com/hgallocodes/Predicting-Power-Outages-Durations)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Predicting-Power-Outages-Durations/)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Plotly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" /> 
