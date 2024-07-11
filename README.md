@@ -1,4 +1,4 @@
-<h1>Hello, I'm Sarah!<br/><a href="www.linkedin.com/in/sarah-borsotto">More on my Projects</a></h1>
+<h1>Hello, I'm Sarah!<br/>More on my Projects</a></h1>
 
 <h2> 📊 Data Analysis Projects:</h2>
 
