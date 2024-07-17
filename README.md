@@ -36,7 +36,7 @@ training loss of 0.001.
 - Assisted in the development of a predictive model that maps similar Division 2 player statistics to Division 1 performance expectations, providing a benchmark for projecting a player’s future performance and potential integration into a Division 1 team.
 - Collaborated on an in-depth research report detailing data sources, data description, exploratory analysis, methodology, result interpretations, and conclusion.
 
-### [Predicting Power Outages Durations](https://github.com/hgallocodes/Predicting-Power-Outages-Durations)
+### [Predicting Power Outage Durations](https://github.com/hgallocodes/Predicting-Power-Outages-Durations)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Predicting-Power-Outages-Durations/)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Plotly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" /> 
 - Developed and fine-tuned a k-Nearest Neighbors (k-NN) regression model to predict the durations of power outages based on influential factors like cause, geography, and population metrics, using a dataset that included detailed information on past power outage events.
