@@ -9,7 +9,7 @@
 - Conducted extensive data cleaning and exploratory data analysis to refine the dataset for relevant variables, implemented hypothesis testing to examine the relationship between power outage durations and cold weather, and communicated findings through clear insights.
 - Utilized statistical methods and permutation tests to validate the hypothesis that colder weather leads to longer power outage durations, contributing to the development of strategies for improving infrastructure resilience and emergency response during adverse weather conditions.
 
-### [Analyzing Parking Ticket Distributions Based on Medium Income Levels](https://github.com/SarahB47/COGS108-Final-Project/blob/main/FinalProjectGroup_054-Fa22.ipynb)
+### [Analyzing Parking Ticket Distributions Based on Median Income Levels](https://github.com/SarahB47/COGS108-Final-Project/blob/main/FinalProjectGroup_054-Fa22.ipynb)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> <img alt="Tools | Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" />
 - Considered how different factors such as income level, geography, year, non-local license plates, and car types affected parking distributions in Los Angeles County.
 - Constructed bar charts and visualizations to depict the trends between parking tickets and AMI categories.
