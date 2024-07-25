@@ -36,6 +36,15 @@ training loss of 0.001.
 - Assisted in the development of a predictive model that maps similar Division 2 player statistics to Division 1 performance expectations, providing a benchmark for projecting a player’s future performance and potential integration into a Division 1 team.
 - Collaborated on an in-depth research report detailing data sources, data description, exploratory analysis, methodology, result interpretations, and conclusion.
 
+### [Performance Comparison of Supervised Learning Algorithms](https://github.com/SarahB47/COGS118A-Final-Project/blob/main/COGS118A%20Final%20Project%20Notebook.ipynb)
+##### [  Visit the Paper Here!](https://github.com/SarahB47/COGS118A-Final-Project/blob/main/COGS118A%20Final%20Project%20Notebook.ipynb)
+<img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Overleaf" width="22px" src="https://images.ctfassets.net/nrgyaltdicpt/3nesOc6iRhdzatUCC5OKWo/ea0fc03647a5f6a903a9aacc357481b2/overleaf-o-logo-primary.jpg" /> 
+- Empirically compared the performances of different supervised learning algorithms on various datasets by examining the classification accuracy of logistic regression, decision trees, and random forests on three UCI Machine Learning Repository datasets: heart disease, adult, and credit approval.
+- Cleaned and performed feature engineering on each dataset, converting variables to numerical format when necessary.
+- Identified optimal hyperparameters through cross-validation using GridSearchCV.
+- Trained each model on the best hyperparameters across three trials and measured training, validation, and testing accuracy.
+- Discovered, in correlation to past research, that random forests generally provided the highest classification accuracy, followed by decision trees, with logistic regression being the least effective.
+
 ### [Predicting Power Outage Durations](https://github.com/hgallocodes/Predicting-Power-Outages-Durations)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Predicting-Power-Outages-Durations/)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Plotly" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" /> 
