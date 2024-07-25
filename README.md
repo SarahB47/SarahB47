@@ -43,6 +43,19 @@ training loss of 0.001.
 - Conducted rigorous data cleaning and exploratory data analysis to identify key predictors, manage outliers, and ensure data quality, which included encoding categorical variables and selecting relevant quantitative features for model training.
 - Evaluated the model's performance using root mean square error (RMSE) and R-squared metrics, performed a fairness analysis comparing predictions across different U.S. regions, and refined the model by incorporating features like peak energy consumption hours and population metrics to improve prediction accuracy.
 
+<h2> 👩🏻‍💻 Coding Projects:</h2>
+
+### [Java Music Playlist](https://github.com/SarahB47/Java-Music-Playlist)
+<img alt="Tools | Java" width="22px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" /> <img alt="Tools | IntelliJ" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" /> 
+- Leveraged various data structures to create a dynamic and interactive music database. Key features include:
+    - Database Management: Build and manage a music database with functionality to add and remove playable items.
+    - Playback Control: Play songs based on user-defined durations, with modes such as regular queue, shuffled, and random.
+      The application displays the current playback time, allows skipping between songs, and notifies when a song completes.
+    - Recommendation System: Uses Jaccard similarity to recommend songs based on user preferences and trends from similar
+      listeners. View the top five most popular tracks according to similar user profiles.
+    - Data Structures: Employs hashtable, tree map, hash map, and priority queue to efficiently manage and access playlist
+      data.
+
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Sarah Borsotto | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
