@@ -59,13 +59,13 @@ training loss of 0.001.
 ### [Python BlackJack Game](https://github.com/SarahB47/Python-Blackjack-Game)
 <img alt="Tools | Python" width="22px" src="https://e7.pngegg.com/pngimages/717/719/png-clipart-blue-and-yellow-logo-python-logo-clojure-javascript-9-miscellaneous-angle-thumbnail.png" /> <img alt="Tools | Visual Studio Code" width="22px" src="https://logowik.com/content/uploads/images/t_visual-studio-code4470.jpg" />
 - Developed a comprehensive Blackjack game featuring several key components:
-          - Card Management: Created a Card class with an aesthetically pleasing __repr__ method for pretty-printing cards.
-          Implemented card comparison functionality.
-          - Deck Management: Designed a Deck class that supports shuffling techniques, including modified overhand and                  Mongean shuffles. Capable of dealing hands and selecting individual cards.
-        - Player and Dealer Hands: Developed a PlayerHand class to manage player hands, including adding and sorting cards.
-          Created a DealerHand class, which inherits from PlayerHand, with additional functionality to reveal or hide cards           as needed.
-        - Gameplay Mechanics: The game calculates and returns scores based on the cards in hand. Allows for adding                    additional cards to the player's hand. Determines the winner by comparing the scores of the player and the dealer.
-        - Game Summaries and Logging: Generated detailed game summaries, including a log of each round with information               about money in the wallet, bets placed, player and dealer cards, and the winner. Provided comprehensive                     documentation tests to ensure reliability and functionality.
+  - Card Management: Created a Card class with an aesthetically pleasing __repr__ method for pretty-printing cards.
+    Implemented card comparison functionality.
+  - Deck Management: Designed a Deck class that supports shuffling techniques, including modified overhand and                Mongean shuffles. Capable of dealing hands and selecting individual cards.
+  - Player and Dealer Hands: Developed a PlayerHand class to manage player hands, including adding and sorting cards.
+    Created a DealerHand class, which inherits from PlayerHand, with additional functionality to reveal or hide cards         as needed.
+  - Gameplay Mechanics: The game calculates and returns scores based on the cards in hand. Allows for adding                  additional cards to the player's hand. Determines the winner by comparing the scores of the player and the dealer.
+  - Game Summaries and Logging: Generated detailed game summaries, including a log of each round with information             about money in the wallet, bets placed, player and dealer cards, and the winner. Provided comprehensive                   documentation tests to ensure reliability and functionality.
 
 - This project emphasized object-oriented programming principles, such as class attributes and inheritance, to create a robust and engaging Blackjack game experience.
 
