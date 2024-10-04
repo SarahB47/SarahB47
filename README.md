@@ -57,12 +57,12 @@ training loss of 0.001.
 ### [Java Music Playlist](https://github.com/SarahB47/Java-Music-Playlist)
 <img alt="Tools | Java" width="22px" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" /> <img alt="Tools | IntelliJ" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/2048px-IntelliJ_IDEA_Icon.svg.png" /> 
 - Leveraged various data structures to create a dynamic and interactive music database. Key features include:
-    - Database Management: Build and manage a music database with functionality to add and remove playable items.
-    - Playback Control: Play songs based on user-defined durations, with modes such as regular queue, shuffled, and random.
+    - Database Management: Built and managed a music database with functionality to add and remove playable items.
+    - Playback Control: Played songs based on user-defined durations, with modes such as regular queue, shuffle, and random.
       The application displays the current playback time, allows skipping between songs, and notifies when a song completes.
-    - Recommendation System: Uses Jaccard similarity to recommend songs based on user preferences and trends from similar
-      listeners. View the top five most popular tracks according to similar user profiles.
-    - Data Structures: Employs hashtable, tree map, hash map, and priority queue to efficiently manage and access playlist
+    - Recommendation System: Used Jaccard similarity to recommend songs based on user preferences and trends from similar
+      listeners. Viewed the top five most popular tracks according to similar user profiles.
+    - Data Structures: Employed hashtable, tree map, hash map, and priority queue to efficiently manage and access playlist
       data.
 
 ### [Python BlackJack Game](https://github.com/SarahB47/Python-Blackjack-Game)
@@ -73,7 +73,7 @@ training loss of 0.001.
   - Deck Management: Designed a Deck class that supports shuffling techniques, including modified overhand and                Mongean shuffles. Capable of dealing hands and selecting individual cards.
   - Player and Dealer Hands: Developed a PlayerHand class to manage player hands, including adding and sorting cards.
     Created a DealerHand class, which inherits from PlayerHand, with additional functionality to reveal or hide cards         as needed.
-  - Gameplay Mechanics: The game calculates and returns scores based on the cards in hand. Allows for adding                  additional cards to the player's hand. Determines the winner by comparing the scores of the player and the dealer.
+  - Gameplay Mechanics: Calculated and returned scores based on the cards in hand. Allowed for adding                  additional cards to the player's hand. Determined the winner by comparing the scores of the player and the dealer.
   - Game Summaries and Logging: Generated detailed game summaries, including a log of each round with information             about money in the wallet, bets placed, player and dealer cards, and the winner. Provided comprehensive                   documentation tests to ensure reliability and functionality.
 
 - This project emphasized object-oriented programming principles, such as class attributes and inheritance, to create a robust and engaging Blackjack game experience.
