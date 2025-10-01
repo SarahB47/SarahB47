@@ -2,6 +2,17 @@
 
 <h2> 🤖 Machine Learning Projects:</h2>
 
+### [Non-Negative Matrix Factorization vs. BERTopic for Topic Modeling](https://github.com/jjdrisco/Topic-Modeling_NMF-vs-BERTopic)
+##### [  Visit the Paper Here!](https://github.com/jjdrisco/Topic-Modeling_NMF-vs-BERTopic/blob/main/DSC_210_Final_Project_Report-3.pdf)
+<img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Overleaf" width="22px" src="https://images.ctfassets.net/nrgyaltdicpt/3nesOc6iRhdzatUCC5OKWo/ea0fc03647a5f6a903a9aacc357481b2/overleaf-o-logo-primary.jpg" />
+- Compared NMF (linear algebra-based) and BERTopic (BERT embedding-based) models for unsupervised topic modeling using the 20 Newsgroups dataset.
+- Developed custom NLP pipelines for each model, including stop word removal, tokenization, lemmatization, and stemming (using scikit-learn’s English stop words, TweetTokenizer, WordNetLemmatizer, and NLTK).
+- Transformed text into numerical representations with TF‑IDF and SentenceTransformers embeddings.
+- Enhanced analysis with t‑SNE and UMAP for dimensionality reduction, HDBSCAN for clustering, and gensim’s Word2Vec for evaluating topic coherence and similarity.
+- Found NMF better at extracting abstract themes (e.g., religion, sports), while BERTopic excelled at clustering documents and producing consistent top words.
+- Collaborated on a research report and presented findings to the class, highlighting trade-offs between traditional linear models and transformer-based topic detection.
+
+
 ### [Convolutional Neural Network for Facial Recognition](https://github.com/SarahB47/COGS181-Final-Project/blob/main/COGS181%20Facial%20Recognition%20Project.ipynb)
 ##### [  Visit the Paper Here!](https://github.com/SarahB47/COGS181-Final-Project/blob/main/COGS_181_Final_Project.pdf)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | SciKit Learn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Matplotlib" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" /> <img alt="Tools | Torch" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/496px-PyTorch_logo_icon.svg.png" /> <img alt="Tools | Overleaf" width="22px" src="https://images.ctfassets.net/nrgyaltdicpt/3nesOc6iRhdzatUCC5OKWo/ea0fc03647a5f6a903a9aacc357481b2/overleaf-o-logo-primary.jpg" /> 
