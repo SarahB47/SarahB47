@@ -4,6 +4,7 @@
 
 ### [Non-Negative Matrix Factorization vs. BERTopic for Topic Modeling](https://github.com/jjdrisco/Topic-Modeling_NMF-vs-BERTopic)
 ##### [  Visit the Paper Here!](https://github.com/jjdrisco/Topic-Modeling_NMF-vs-BERTopic/blob/main/DSC_210_Final_Project_Report-3.pdf)
+##### [  Visit the Presentation Here!](https://github.com/jjdrisco/Topic-Modeling_NMF-vs-BERTopic/blob/main/210_Final_Presentation.pdf)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Overleaf" width="22px" src="https://images.ctfassets.net/nrgyaltdicpt/3nesOc6iRhdzatUCC5OKWo/ea0fc03647a5f6a903a9aacc357481b2/overleaf-o-logo-primary.jpg" />
 - Compared NMF (linear algebra-based) and BERTopic (BERT embedding-based) models for unsupervised topic modeling using the 20 Newsgroups dataset.
 - Developed custom NLP pipelines for each model, including stop word removal, tokenization, lemmatization, and stemming (using scikit-learn’s English stop words, TweetTokenizer, WordNetLemmatizer, and NLTK).
