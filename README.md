@@ -27,6 +27,7 @@
 - Collaborated on a research report and presented findings to the class, highlighting trade-offs between traditional linear models and transformer-based topic detection.
 
 ### [Book Recommendation System](https://github.com/lorenzilipe/202-final-project)
+
 - Developed a hybrid book recommendation system that integrates collaborative filtering to recommend books based on user interactions and
 ratings and content-based filtering to analyze semantic embeddings for books with similar descriptions.
 - The system integrates three main components: PostgreSQL for metadata storage, Neo4j for collaborative filtering, and Qdrant for semantic search.
