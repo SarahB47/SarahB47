@@ -5,15 +5,15 @@
 ### [Hybrid Graph-Based Content Filtering for Enhanced Music Recommendation](https://github.com/jjdrisco/Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation)
 ##### [  Visit the Paper Here!](https://github.com/jjdrisco/Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation/blob/main/Report_Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation.pdf)
 ##### [  Visit the Presentation Here!](https://github.com/jjdrisco/Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation/blob/main/Presentation_Slides.pdf)
-- Proposed HyG-Con, a hybrid music recommendation system combining Content-Based Filtering (CBF) with a domain-specific knowledge graph to enhance relevance and genre diversity while combatting filter bubbles
-- Utilized Spotify Tracks Dataset (114k tracks, 125 genres) with audio features (e.g., tempo, energy, danceability) and metadata
-- Integrated MusicMap, an expert-curated genre genealogy, to model historical and semantic relationships between genres
-- Trained a CBF baseline model using MiniBatch K-Means that recommends songs based on feature vector cosine similarity
-- Built a knowledge graph where nodes represent genres and edges encode expert-defined transitions (e.g., R&B → Rap)
-- Designed a controlled experiment generating 90 total playlists (3 methods × 30 playlists × 15 songs), each seeded with the same initial track for consistency, to compare three playlist generation methods: CBF Baseline, Stochastic variant, HyG-Con hybrid model
-- Evaluated playlists using three metrics: Intra-list diversity, Genre coverage, and Feature variance
-- Conducted 2 structured interviews where raters evaluated 12 playlists (4 sets × 3 methods) based on song relevance, novelty, and cohesion
-- HyG-Con performance:Intra-list diversity (29.91 vs. 2.90 Baseline, 3.07 Stochastic), slight improvement in genre coverage, but higher feature variance (less acoustic coherence)
+- Proposed HyG-Con, a hybrid music recommendation system combining Content-Based Filtering (CBF) with a domain-specific knowledge graph to enhance relevance and genre diversity while combatting filter bubbles.
+- Utilized Spotify Tracks Dataset (114k tracks, 125 genres) with audio features (e.g., tempo, energy, danceability) and metadata.
+- Integrated MusicMap, an expert-curated genre genealogy, to model historical and semantic relationships between genres.
+- Trained a CBF baseline model using MiniBatch K-Means that recommends songs based on feature vector cosine similarity.
+- Built a knowledge graph where nodes represent genres and edges encode expert-defined transitions (e.g., R&B → Rap).
+- Designed a controlled experiment generating 90 total playlists (3 methods × 30 playlists × 15 songs), each seeded with the same initial track for consistency, to compare three playlist generation methods: CBF Baseline, Stochastic variant, HyG-Con hybrid model.
+- Evaluated playlists using three metrics: Intra-list diversity, Genre coverage, and Feature variance.
+- Conducted 2 structured interviews where raters evaluated 12 playlists (4 sets × 3 methods) based on song relevance, novelty, and cohesion.
+- HyG-Con performance:Intra-list diversity (29.91 vs. 2.90 Baseline, 3.07 Stochastic), slight improvement in genre coverage, but higher feature variance (less acoustic coherence).
 
 ### [Non-Negative Matrix Factorization vs. BERTopic for Topic Modeling](https://github.com/jjdrisco/Topic-Modeling_NMF-vs-BERTopic)
 ##### [  Visit the Paper Here!](https://github.com/jjdrisco/Topic-Modeling_NMF-vs-BERTopic/blob/main/DSC_210_Final_Project_Report-3.pdf)
@@ -25,6 +25,21 @@
 - Enhanced analysis with t‑SNE and UMAP for dimensionality reduction, HDBSCAN for clustering, and gensim’s Word2Vec for evaluating topic coherence and similarity.
 - Found NMF better at extracting abstract themes (e.g., religion, sports), while BERTopic excelled at clustering documents and producing consistent top words.
 - Collaborated on a research report and presented findings to the class, highlighting trade-offs between traditional linear models and transformer-based topic detection.
+
+### [Book Recommendation System](https://github.com/lorenzilipe/202-final-project)
+- Developed a hybrid book recommendation system that integrates collaborative filtering to recommend books based on user interactions and
+ratings and content-based filtering to analyze semantic embeddings for books with similar descriptions.
+- The system integrates three main components: PostgreSQL for metadata storage, Neo4j for collaborative filtering, and Qdrant for semantic search.
+- Streamlit is used to provide an interactive user interface that combines these components into a seamless recommendation workflow.
+- Used the UCSD BookGraph dataset, filtering for the “Comics and Graphic Novels” genre with over 89,000 books and 7.3 million user interactions.
+- Neo4j (Graph DB): Modeled user-book interactions as a graph with user/book nodes and interaction edges for collaborative filtering.
+- Qdrant (Vector DB): Stored dense sentence embeddings of book descriptions using all-MiniLM-L6-v2 for efficient similarity search in content-based filtering.
+- PostgreSQL: Managed book metadata and enabled attribute-level filtering (e.g., page count, publication year)
+- Collaborative Filtering: Queried Neo4j to identify books connected to similarly-rated works by similar users
+- Content-Based Filtering: Matched user-inputted preferences or queries to book embeddings stored in Qdrant
+- Attribute Filtering: Allowed users to refine recommendations by format, length, publication year, etc., using PostgreSQL-backed queries
+- Provided two recommendation entry modes: “Rate Books You’ve Read”: Users rate known books to receive personalized suggestions
+“Describe Your Query”: Users input a free-text description of the book they want, enabling semantic retrieval via embeddings
 
 
 ### [Convolutional Neural Network for Facial Recognition](https://github.com/SarahB47/COGS181-Final-Project/blob/main/COGS181%20Facial%20Recognition%20Project.ipynb)
