@@ -5,7 +5,15 @@
 ### [Hybrid Graph-Based Content Filtering for Enhanced Music Recommendation](https://github.com/jjdrisco/Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation)
 ##### [  Visit the Paper Here!](https://github.com/jjdrisco/Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation/blob/main/Report_Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation.pdf)
 ##### [  Visit the Presentation Here!](https://github.com/jjdrisco/Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation/blob/main/Presentation_Slides.pdf)
-<img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Overleaf" width="22px" src="https://images.ctfassets.net/nrgyaltdicpt/3nesOc6iRhdzatUCC5OKWo/ea0fc03647a5f6a903a9aacc357481b2/overleaf-o-logo-primary.jpg" />
+- Proposed HyG-Con, a hybrid music recommendation system combining Content-Based Filtering (CBF) with a domain-specific knowledge graph to enhance relevance and genre diversity while combatting filter bubbles
+- Utilized Spotify Tracks Dataset (114k tracks, 125 genres) with audio features (e.g., tempo, energy, danceability) and metadata
+- Integrated MusicMap, an expert-curated genre genealogy, to model historical and semantic relationships between genres
+- Trained a CBF baseline model using MiniBatch K-Means that recommends songs based on feature vector cosine similarity
+- Built a knowledge graph where nodes represent genres and edges encode expert-defined transitions (e.g., R&B → Rap)
+- Designed a controlled experiment generating 90 total playlists (3 methods × 30 playlists × 15 songs), each seeded with the same initial track for consistency, to compare three playlist generation methods: CBF Baseline, Stochastic variant, HyG-Con hybrid model
+- Evaluated playlists using three metrics: Intra-list diversity, Genre coverage, and Feature variance
+- Conducted 2 structured interviews where raters evaluated 12 playlists (4 sets × 3 methods) based on song relevance, novelty, and cohesion
+- HyG-Con performance:Intra-list diversity (29.91 vs. 2.90 Baseline, 3.07 Stochastic), slight improvement in genre coverage, but higher feature variance (less acoustic coherence)
 
 ### [Non-Negative Matrix Factorization vs. BERTopic for Topic Modeling](https://github.com/jjdrisco/Topic-Modeling_NMF-vs-BERTopic)
 ##### [  Visit the Paper Here!](https://github.com/jjdrisco/Topic-Modeling_NMF-vs-BERTopic/blob/main/DSC_210_Final_Project_Report-3.pdf)
