@@ -30,7 +30,6 @@
 
 - Developed a hybrid book recommendation system that integrates collaborative filtering to recommend books based on user interactions and
 ratings and content-based filtering to analyze semantic embeddings for books with similar descriptions.
-- The system integrates three main components: PostgreSQL for metadata storage, Neo4j for collaborative filtering, and Qdrant for semantic search.
 - Streamlit is used to provide an interactive user interface that combines these components into a seamless recommendation workflow.
 - Used the UCSD BookGraph dataset, filtering for the “Comics and Graphic Novels” genre with over 89,000 books and 7.3 million user interactions.
 - Neo4j (Graph DB): Modeled user-book interactions as a graph with user/book nodes and interaction edges for collaborative filtering.
