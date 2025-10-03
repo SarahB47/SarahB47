@@ -2,7 +2,7 @@
 
 <h2> 🤖 Machine Learning Projects:</h2>
 
-### [Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation](https://github.com/jjdrisco/Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation)
+### [Hybrid Graph-Based Content Filtering for Enhanced Music Recommendation](https://github.com/jjdrisco/Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation)
 ##### [  Visit the Paper Here!](https://github.com/jjdrisco/Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation/blob/main/Report_Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation.pdf)
 ##### [  Visit the Presentation Here!](https://github.com/jjdrisco/Hybrid_Graph-Based_Content_Filtering_for_Enhanced_Music_Recommendation/blob/main/Presentation_Slides.pdf)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Overleaf" width="22px" src="https://images.ctfassets.net/nrgyaltdicpt/3nesOc6iRhdzatUCC5OKWo/ea0fc03647a5f6a903a9aacc357481b2/overleaf-o-logo-primary.jpg" />
