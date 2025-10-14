@@ -78,6 +78,13 @@ training loss of 0.001.
 
 <h2> 📊 Data Analysis Projects:</h2>
 
+### [Forecasting Urban Bike Demands with Linear Regression](https://github.com/SarahB47/Bike-Rental-Predictions/blob/main/DSC241FinalCodeFile.R)
+##### [  Visit the Report Here!](https://hgallocodes.github.io/Cold-Weather-and-Power-Outages/](https://github.com/SarahB47/Bike-Rental-Predictions/blob/main/DSC241%20Final%20Project%20Report.pdf)
+<img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> 
+- Performed extensive data visualization and descriptive analysis of bike rental behavior for over 17,000+ records in the UCI Bike Sharing Dataset
+- Trained linear and logistic regression models on continuous and categorical variables to predict hourly bike rental counts
+- Evaluated model assumptions with residual plots, heteroscedasticity tests, and Q-Q plots; applied outlier removal, transformations, and interaction terms to achieve R² = 0.938, RMSE = 0.347 on training data and R² = 0.78 on next-year test set
+
 ### [Statistical Analysis of Power Outage Events](https://github.com/hgallocodes/Cold-Weather-and-Power-Outages/blob/main/power_outages.ipynb)
 ##### [  Visit the Webpage Here!](https://hgallocodes.github.io/Cold-Weather-and-Power-Outages/)
 <img alt="Tools | Python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" /> <img alt="Tools | Pandas" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" /> <img alt="Tools | Numpy" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" /> 
